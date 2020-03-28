@@ -1,4 +1,4 @@
-# mySymptoms
+# mySymptomCheck
 
 A web application that diagnoses a disease using the symptoms entered by the user. The user can enter symptoms from different body parts ,then the diseasematching all the symptoms is shown to the user along with other possible symptoms,
 disease description and the treatment description.
